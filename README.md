@@ -1,7 +1,7 @@
 <!-- 访问统计 -->
 
 <div align="center">
-  <table style="width:70%;">
+  <table style="width:100%;">
     <tr>
       <td align="center">
         <img height='200' src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />

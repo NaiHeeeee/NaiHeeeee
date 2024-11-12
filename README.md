@@ -1,5 +1,12 @@
-[![:name](https://count.naihee.cn/@NaiHeeeee?theme=rule34)](https://count.naihee.cn/)
-
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <td align="center">
+        <img height='200' src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### About My Github

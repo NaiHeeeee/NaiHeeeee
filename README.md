@@ -1,7 +1,7 @@
 <!-- 访问统计 -->
 
 <div align="center">
-  <table style="width:70%;">
+  <table style="width:100%;">
     <tr>
       <td align="center">
         <img height='200' src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
@@ -23,24 +23,26 @@
 ---
 
 ### About My Github
-<div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.naihee.cn/api?username=naiheeeee&show_icons=true&theme=tokyonight" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.naihee.cn/api/top-langs/?username=NaiHeeeee&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%; gap: 20px;">
+  <div style="display: flex; justify-content: center; width: 100%; gap: 20px;">
+    <!-- 第一个图片 -->
+    <a href="https://github.com/NaiHeeeee/github-readme-stats">
+      <img height="200" src="https://github-readme-stats.naihee.cn/api?username=naiheeeee&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <!-- 第二个图片 -->
+    <a href="https://github.com/NaiHeeeee/github-readme-stats">
+      <img height="200" src="https://github-readme-stats.naihee.cn/api/top-langs/?username=NaiHeeeee&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </a>
+  </div>
+
+  <!-- 第三个图片 -->
+  <a href="https://github.com/NaiHeeeee/NaiHeeeee.github.io">
+    <img height="200" src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" alt="Pinned Repo" style="margin-top: 20px;" />
+  </a>
+
+  <!-- 第四个图片 -->
+  <a href="https://github.com/NaiHeeeee/github-readme-activity-graph" style="margin-top: 20px;">
+    <img height="220" src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 </div>
 

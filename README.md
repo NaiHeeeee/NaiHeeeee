@@ -3,7 +3,7 @@
   <table style="width:100%;">
     <tr>
       <td align="center">
-        <img width="200%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
+        <img width="300%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
       </td>
     </tr>
   </table>

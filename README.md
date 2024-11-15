@@ -4,7 +4,7 @@
   <table style="width:100%;">
     <tr>
       <td align="center">
-        <img src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
+        <img width="40%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
       </td>
     </tr>
   </table>
@@ -56,3 +56,4 @@
     </tr>
   </table>
 </div>
+

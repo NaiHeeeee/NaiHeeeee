@@ -4,7 +4,7 @@
   <table style="width:100%;">
     <tr>
       <td align="center">
-        <img width="150%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
+        <img width="200%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
       </td>
     </tr>
   </table>
@@ -25,35 +25,41 @@
 ### About My Github
 <div align="center">
   <table style="width:100%;">
-  	<tr>
+    <tr>
       <!-- 第一个图片 -->
+      <td colspan="2" align="center">
+        <a href="https://github.com/NaiHeeeee/NaiHeeeee.github.io">
+          <img height='150'
+            src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- 第二个图片 -->
       <td align="center">
         <a href="https://github.com/NaiHeeeee/github-readme-stats">
           <img src="https://github-readme-stats.naihee.cn/api?username=naiheeeee&show_icons=true&theme=tokyonight" />
         </a>
       </td>
-      <!-- 第二个图片 -->
+      <!-- 第三个图片 -->
       <td align="center">
         <a href="https://github.com/NaiHeeeee/github-readme-stats">
-          <img src="https://github-readme-stats.naihee.cn/api/top-langs/?username=NaiHeeeee&layout=compact&theme=tokyonight" />
+          <img
+            src="https://github-readme-stats.naihee.cn/api/top-langs/?username=NaiHeeeee&layout=compact&theme=tokyonight" />
         </a>
       </td>
     </tr>
     <tr>
-      <!-- 第三个图片 -->
-      <td colspan="2" align="center">
-        <a href="https://github.com/NaiHeeeee/NaiHeeeee.github.io">
-          <img height='150' src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-    <!-- 第四个图片 -->
-    <tr>
+      <!-- 第四个图片 -->
       <td colspan="2" rowspan="2" align="center">
         <a href="https://github.com/NaiHeeeee/github-readme-activity-graph">
-          <img width="100%" src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" />
-         </a>
+          <img width="100%"
+            src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
+
+
+

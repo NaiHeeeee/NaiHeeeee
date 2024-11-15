@@ -1,9 +1,9 @@
 <div align="center">
 <!-- 访问统计 -->
-  <table style="width:100%;">
+  <table style="width:200%;">
     <tr>
       <td align="center">
-        <img width="300%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
+        <img width="200%" src="https://count.naihee.cn/@NaiHeeeee?theme=rule34" />
       </td>
     </tr>
   </table>

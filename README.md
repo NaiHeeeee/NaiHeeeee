@@ -50,7 +50,7 @@
     <tr>
       <td colspan="2" rowspan="2" align="center">
         <a href="https://github.com/NaiHeeeee/github-readme-activity-graph">
-          <img height="300" src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" />
+          <img width="100%" src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" />
          </a>
       </td>
     </tr>

@@ -76,6 +76,7 @@
 
 
 ### About My Gamems
-[genshin-card](https://hoyocard.qhy04.com/gs/detail/rand/184570872.png)
-[starrail-card](https://hoyocard.qhy04.com/sr/detail/0/184570872.png)
+<img src="https://hoyocard.qhy04.com/gs/detail/rand/184570872.png" alt="genshin-card" />
+<img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="starrail-card" />
+
 

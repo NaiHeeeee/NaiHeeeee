@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Website-个人网站-blue">
   </a>&emsp;
   <a href="https://t.me/naihe666">
-    <img src="https://img.shields.io/badge/Telegram-电报-24A1DE">
+    <img src="https://img.shields.io/badge/NaiHe-Telegram-24A1DE">
   </a>&emsp;
-  <a href="https://x.com/naiheeeee">
-    <img src="https://img.shields.io/badge/X-推特-black">
+  <a href="https://steamcommunity.com/id/naihe6/">
+    <img src="https://img.shields.io/badge/NaiHe-Steam-2a475e">
   </a>&emsp;
   <a href="https://space.bilibili.com/232568569">
     <img src="https://img.shields.io/badge/Bilibili-B站-FB7299">
@@ -75,8 +75,7 @@
 </div>
 
 
-### About My Gamems
+### About My Games
 <img src="https://hoyocard.qhy04.com/gs/detail/rand/184570872.png" alt="genshin-card" />
 <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="starrail-card" />
-
 

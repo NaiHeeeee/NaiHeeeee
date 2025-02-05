@@ -13,20 +13,20 @@
 <div align="center">
   <!-- 个人资料徽标 -->
   <a href="https://naihee.cn/">
-    <img src="https://img.shields.io/badge/Website-个人网站-blue">
-  </a>&emsp;
+    <img src="https://img.shields.io/badge/Website-个人网站-blue" style="margin-right: 10px;">
+  </a>
   <a href="https://t.me/naihe666">
-    <img src="https://img.shields.io/badge/NaiHe-Telegram-24A1DE">
-  </a>&emsp;
+    <img src="https://img.shields.io/badge/NaiHe-Telegram-24A1DE" style="margin-right: 10px;">
+  </a>
   <a href="https://steamcommunity.com/id/naihe6/">
-    <img src="https://img.shields.io/badge/NaiHe-Steam-2a475e">
-  </a>&emsp;
+    <img src="https://img.shields.io/badge/NaiHe-Steam-2a475e" style="margin-right: 10px;">
+  </a>
   <a href="https://space.bilibili.com/232568569">
-    <img src="https://img.shields.io/badge/Bilibili-B站-FB7299">
-  </a>&emsp;
+    <img src="https://img.shields.io/badge/Bilibili-B站-FB7299" style="margin-right: 10px;">
+  </a>
   <a href="https://www.youtube.com/channel/UCLAriEYXiSDMX8HI6q21Keg">
-    <img src="https://img.shields.io/badge/Youtube-油管-FF0000">
-  </a>&emsp;
+    <img src="https://img.shields.io/badge/Youtube-油管-FF0000" style="margin-right: 10px;">
+  </a>
 </div>
 
 ---

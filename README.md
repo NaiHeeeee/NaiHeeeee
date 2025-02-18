@@ -44,33 +44,44 @@
 ### About My Github
 
 <div align="center">
-  <table style="width:100%;">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/NaiHeeeee/github-readme-stats">
-          <img src="https://github-readme-stats.naihee.cn/api?username=naiheeeee&show_icons=true&theme=tokyonight" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/NaiHeeeee/github-readme-stats">
-          <img
-            src="https://github-readme-stats.naihee.cn/api/top-langs/?username=NaiHeeeee&layout=compact&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" rowspan="2" align="center">
-        <a href="https://github.com/NaiHeeeee/github-readme-activity-graph">
-          <img width="100%"
-            src="https://github-readme-activity-graph.naihee.cn/graph?username=NaiHeeeee&theme=tokyo-night&hide_border=true&area=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+    <table style="width: 100%;">
+        <tr>
+            <td colspan="2" align="center">
+                <a herf="https://github-profile-summary-cards.naihee.cn">
+                    <img src="https://github-profile-summary-cards.naihee.cn//api/cards/profile-details?username=NaiHeeeee&theme=aura" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a herf="https://github-profile-summary-cards.naihee.cn">
+                    <img src="https://github-profile-summary-cards.naihee.cn//api/cards/repos-per-language?username=NaiHeeeee&theme=aura" />
+                </a>
+            </td>
+            <td align="center">
+                <a herf="https://github-profile-summary-cards.naihee.cn">
+                    <img src="https://github-profile-summary-cards.naihee.cn//api/cards/most-commit-language?username=NaiHeeeee&theme=aura" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a herf="https://github-profile-summary-cards.naihee.cn">
+                    <img src="https://github-profile-summary-cards.naihee.cn//api/cards/stats?username=NaiHeeeee&theme=aura" />
+                </a>
+            </td>
+            <td align="center">
+                <a herf="https://github-profile-summary-cards.naihee.cn">
+                    <img src="https://github-profile-summary-cards.naihee.cn//api/cards/productive-time?username=NaiHeeeee&theme=aura&utcOffset=8" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>  
 
 ### About My Games
-<img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="genshin-card" />
-<img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="starrail-card" />
 
+<div align="center">
+    <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
+    <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
+</div>

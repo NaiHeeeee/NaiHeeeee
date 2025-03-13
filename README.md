@@ -100,12 +100,7 @@
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
+        <img src="https://yscard.naihee.com/89/184570872.png" alt="Genshin Impact Card" />
       </td>
     </tr>
   </table>

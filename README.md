@@ -1,9 +1,4 @@
 <div align="center">
-  <iframe src="./clock.html" width=800 height="400" frameborder="0" scrolling="no"></iframe>
-</div>
-
-
-<div align="center">
   <!-- 访问统计 -->
   <table style="width:100%;">
     <tr>
@@ -102,6 +97,11 @@
 ### About My Games
 
 <div align="center">
-  <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
-  <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
+  <table style="width: 100%;">
+    <tr>
+      <td align="center">
+        <img src="https://yscard.naihee.com/89/184570872.png" alt="Genshin Impact Card" />
+      </td>
+    </tr>
+  </table>
 </div>

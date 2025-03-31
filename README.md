@@ -97,21 +97,22 @@
 ### About My Games
 
 <div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center">
-        <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-         <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <!-- steam-box start -->
-        <!-- steam-box end -->
-      </td>
-  </table>
+<table style="width: 100%;">
+<tr>
+<td align="center">
+<img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<!-- steam-box start -->
+<!-- steam-box end -->
+</td>
+</tr>
+</table>
 </div>

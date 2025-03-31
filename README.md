@@ -113,19 +113,10 @@
 <div align="center">
 <table>
 <tr>
-<td style="vertical-align: top;width: 50%">
+<td style="vertical-align: top;width: 100%">
 
-<!-- steam-box start -->
-🎮 最近我在玩…
-```text
-💻 Wallpaper Engine                  🕘 324 hrs 51 mins
-🎮 NUKITASHI 2                       🕘 324 hrs 19 mins
-🎮 Otome Riron to Sono Shuuhen -École de Paris- 🕘 324 hrs 19 mins
-🎮 Kimi no Hitomi ni Hit Me          🕘 324 hrs 19 mins
-🎮 Select Oblige                     🕘 324 hrs 19 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+<!-- steam-box-playtime start -->
+<!-- steam-box-playtime end -->
 
 </td>
 </tr>

@@ -112,13 +112,13 @@
 <td style="vertical-align: top;width: 100%">
 
 <!-- steam-box start -->
-🎮 最近我在玩…
+🎮 Steam playtime leaderboard
 ```text
-💻 Wallpaper Engine                  🕘 324 hrs 57 mins
-🎮 魔女的夜宴                             🕘 324 hrs 25 mins
-🎮 Koi x Shin Ai Kanojo              🕘 324 hrs 25 mins
-🎮 NUKITASHI 2                       🕘 324 hrs 25 mins
-🎮 NUKITASHI                         🕘 324 hrs 25 mins
+💻 Wallpaper Engine                 🕘 23905 hrs 16 mins
+🎮 魔女的夜宴                       🕘 7206 hrs 54 mins
+🎮 Riddle Joker                     🕘 7184 hrs 17 mins
+🎮 Cafe Stella                      🕘 7183 hrs 47 mins
+🎮 Senren＊Banka                    🕘 7155 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

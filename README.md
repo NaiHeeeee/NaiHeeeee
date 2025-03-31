@@ -110,8 +110,8 @@
     </tr>
     <tr>
       <td align="center">
-<!-- steam-box-playtime start -->
-<!-- steam-box-playtime end -->
+<!-- steam-box start -->
+<!-- steam-box end -->
       </td>
   </table>
 </div>

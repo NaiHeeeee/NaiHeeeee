@@ -115,10 +115,11 @@
 <tr>
 <td style="vertical-align: top;width: 100%">
 
-<!-- steam-box-playtime start -->
-<!-- steam-box-playtime end -->
+
 
 </td>
 </tr>
 </table>
 </div>
+<!-- steam-box-playtime start -->
+<!-- steam-box-playtime end -->

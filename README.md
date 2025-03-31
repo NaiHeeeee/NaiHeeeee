@@ -110,7 +110,7 @@
     </tr>
   </table>
 </div>
-
+<div align="center">
 <table>
 <tr>
 <td style="vertical-align: top;width: 50%">
@@ -130,4 +130,4 @@
 </td>
 </tr>
 </table>
-
+</div>

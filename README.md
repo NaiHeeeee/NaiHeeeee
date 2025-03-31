@@ -109,7 +109,7 @@
       </td>
     </tr>
 <tr>
-<td style="vertical-align: top;width: 100%">
+<td style="vertical-align: top;width: 50%">
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard

@@ -108,10 +108,6 @@
          <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
       </td>
     </tr>
-  </table>
-</div>
-<div align="center">
-<table>
 <tr>
 <td style="vertical-align: top;width: 100%">
 
@@ -129,5 +125,5 @@
 
 </td>
 </tr>
-</table>
+  </table>
 </div>

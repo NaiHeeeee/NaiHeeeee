@@ -101,12 +101,17 @@
     <tr>
       <td align="center">
         <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
-       </td>
-     </tr>
-     <tr>
-       <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
          <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <!-- steam-box-playtime start -->
+        <!-- steam-box-playtime end -->
+      </td>
   </table>
 </div>

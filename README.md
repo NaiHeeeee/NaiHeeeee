@@ -114,11 +114,11 @@
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-💻 Wallpaper Engine                  🕘 325 hrs 0 mins
-🎮 魔女的夜宴                             🕘 324 hrs 28 mins
-🎮 Koi x Shin Ai Kanojo              🕘 324 hrs 28 mins
-🎮 NUKITASHI 2                       🕘 324 hrs 28 mins
-🎮 NUKITASHI                         🕘 324 hrs 28 mins
+💻 Wallpaper Engine                  🕘 324 hrs 57 mins
+🎮 魔女的夜宴                             🕘 324 hrs 25 mins
+🎮 Koi x Shin Ai Kanojo              🕘 324 hrs 25 mins
+🎮 NUKITASHI 2                       🕘 324 hrs 25 mins
+🎮 NUKITASHI                         🕘 324 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

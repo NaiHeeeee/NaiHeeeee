@@ -118,11 +118,11 @@
 <!-- steam-box start -->
 🎮 最近我在玩…
 ```text
-💻 Wallpaper Engine                  🕘 324 hrs 41 mins
-🎮 NUKITASHI 2                       🕘 324 hrs 9 mins
-🎮 Otome Riron to Sono Shuuhen -École de Paris- 🕘 324 hrs 9 mins
-🎮 Kimi no Hitomi ni Hit Me          🕘 324 hrs 9 mins
-🎮 Select Oblige                     🕘 324 hrs 9 mins
+💻 Wallpaper Engine                  🕘 325 hrs 0 mins
+🎮 魔女的夜宴                             🕘 324 hrs 28 mins
+🎮 Koi x Shin Ai Kanojo              🕘 324 hrs 28 mins
+🎮 NUKITASHI 2                       🕘 324 hrs 28 mins
+🎮 NUKITASHI                         🕘 324 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->

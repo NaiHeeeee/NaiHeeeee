@@ -111,6 +111,15 @@
 <tr>
 <td valign="top" width="50%">
 <!-- steam-box start -->
+🎮 最近我在玩…
+```text
+💻 Wallpaper Engine                  🕘 324 hrs 55 mins
+🎮 魔女的夜宴                             🕘 324 hrs 23 mins
+🎮 NUKITASHI 2                       🕘 324 hrs 23 mins
+🎮 NUKITASHI                         🕘 324 hrs 23 mins
+🎮 Otome Riron to Sono Shuuhen -École de Paris- 🕘 324 hrs 23 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
 </tr>

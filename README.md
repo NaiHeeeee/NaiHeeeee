@@ -110,17 +110,8 @@
     </tr>
     <tr>
       <td align="center">
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/d45443c8d38dbc3be32af9e6504c9ef4" target="_blank">🎮 最近我在玩…</a>
-```text
-💻 Wallpaper Engine                  🕘 324 hrs 45 mins
-🎮 NUKITASHI 2                       🕘 324 hrs 13 mins
-🎮 Otome Riron to Sono Shuuhen -École de Paris- 🕘 324 hrs 13 mins
-🎮 Kimi no Hitomi ni Hit Me          🕘 324 hrs 13 mins
-🎮 Select Oblige                     🕘 324 hrs 13 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+        <!-- steam-box start -->
+        <!-- steam-box end -->
       </td>
   </table>
 </div>

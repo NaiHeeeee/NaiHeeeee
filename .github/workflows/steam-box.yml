@@ -15,11 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: d45443c8d38dbc3be32af9e6504c9ef4
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: GIST_AND_MARKDOWN
+      UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
+      APP_ID: 431960,1144400,2458530,1829980,1277930,1662840
 
     steps:
       - name: Set up Go 1.x

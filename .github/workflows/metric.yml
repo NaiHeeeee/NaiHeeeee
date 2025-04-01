@@ -26,7 +26,7 @@ jobs:
 
           # Committer
           committer_token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
-          committer_message: 'Update metrics'
+          committer_message: ':memo: Update Profile (Metrics)'
           
           # base
           base: header, activity, community, repositories, metadata

@@ -118,13 +118,28 @@
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
-```text
-💻 Wallpaper Engine                 🕘 23913 hrs 54 mins
-🎮 魔女的夜宴                       🕘 7215 hrs 31 mins
-🎮 Riddle Joker                     🕘 7192 hrs 55 mins
-🎮 Cafe Stella                      🕘 7192 hrs 24 mins
-🎮 Senren＊Banka                    🕘 7164 hrs 16 mins
-```
+<table>
+  <tr>
+    <td>💻 Wallpaper Engine</td>
+    <td>🕘 23913 hrs 54 mins</td>
+  </tr>
+  <tr>
+    <td>🎮 魔女的夜宴</td>
+    <td>🕘 7215 hrs 31 mins</td>
+  </tr>
+  <tr>
+    <td>🎮 Riddle Joker</td>
+    <td>🕘 7192 hrs 55 mins</td>
+  </tr>
+  <tr>
+    <td>🎮 Cafe Stella</td>
+    <td>🕘 7192 hrs 24 mins</td>
+  </tr>
+  <tr>
+    <td>🎮 Senren＊Banka</td>
+    <td>🕘 7164 hrs 16 mins</td>
+  </tr>
+</table>
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 

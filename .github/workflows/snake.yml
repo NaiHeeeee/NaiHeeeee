@@ -50,7 +50,8 @@ jobs:
         run: |
           set -eu
 
-          git add dist
+          git add dist/github-contribution-grid-snake-dark.svg
+          git add dist/github-contribution-grid-snake.svg
 
           if ! git diff --cached --quiet; then
               git commit -S -m "Update Profile(Snake)"

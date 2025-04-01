@@ -113,7 +113,7 @@
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
-<table style="width: 100%;">
+<table>
   <tr>
     <td>💻 Wallpaper Engine</td>
     <td>🕘 23913 hrs 54 mins</td>

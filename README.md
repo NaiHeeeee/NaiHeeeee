@@ -108,17 +108,12 @@
          <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
       </td>
     </tr>
-  </table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td style="vertical-align: top;width: 50%">
+    <tr>
+<td align="center">
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
-<table>
+<table style="width: 100%;">
   <tr>
     <td>💻 Wallpaper Engine</td>
     <td>🕘 23913 hrs 54 mins</td>
@@ -145,7 +140,7 @@
 
 </td>
 </tr>
-</table>
+  </table>
 </div>
 
 <div align="center">

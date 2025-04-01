@@ -12,6 +12,7 @@ jobs:
   build:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
+    if: ${{ github.actor != 'NaiHeBot' }}
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}

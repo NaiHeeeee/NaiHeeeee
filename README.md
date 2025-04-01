@@ -132,3 +132,9 @@
 </tr>
 </table>
 </div>
+
+<details>
+  <summary>metrics</summary>
+
+![](github-metrics.svg)
+</details>

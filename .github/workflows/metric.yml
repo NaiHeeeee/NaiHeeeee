@@ -66,3 +66,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 1
+
+          # Commit calendar plugin
+          plugin_calendar: yes
+          plugin_calendar_limit: 0

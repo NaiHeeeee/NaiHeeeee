@@ -11,7 +11,6 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    if: ${{ github.actor != 'NaiHeBot' }}
     steps:
       - uses: lowlighter/metrics@master
         with:

@@ -135,7 +135,7 @@
     <td>🕘 7164 hrs 16 mins</td>
   </tr>
 </table>
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- Powered by https://github.com/NaiHeeeee/steam-box . -->
 <!-- steam-box end -->
 
 </td>

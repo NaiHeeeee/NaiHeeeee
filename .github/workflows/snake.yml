@@ -16,6 +16,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    if: ${{ github.actor != 'NaiHeBot' }}
     timeout-minutes: 10
 
     steps:

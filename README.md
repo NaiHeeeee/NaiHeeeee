@@ -133,9 +133,9 @@
 </table>
 </div>
 
-<details>
-  <summary>metrics</summary>
-
-![](github-metrics.svg)
-
-</details>
+<div align="center">
+  <details>
+    <summary>metrics</summary>
+    <img src="github-metrics.svg" alt="Metrics" />
+  </details>
+</div>

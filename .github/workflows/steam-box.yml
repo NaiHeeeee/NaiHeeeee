@@ -1,12 +1,16 @@
-name: Update Steam Playtime
+name: Update steam playtime
+
 on:
   schedule:
-    - cron: "1 */2 * * *"
+    - cron: "2 0/2 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
   build:
-    name: Update-Steam-Playtime
-    if: ${{ github.actor != 'NaiHeBot' }}
+    name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -14,54 +18,25 @@ jobs:
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
+
     steps:
       - name: Set up Go 1.x
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v2
         with:
           go-version: ^1.14
         id: go
-
-      - name: Checkout
-        uses: actions/checkout@v4.2.2
-        with:
-          token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
-
-      - name: Import GPG key for signing
-        uses: crazy-max/ghaction-import-gpg@v6.2.0
-        with:
-          gpg_private_key: ${{ secrets.NAIHEBOT_GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.PASSPHRASE }}
-          git_config_global: true
-          git_user_signingkey: true
-          git_commit_gpgsign: true
-
-      - name: Validate Go
-        uses: actions/setup-go@v5
-
-      - name: Clone and build steam-box
-        run: |
-          git clone https://github.com/NaiHeeeee/steam-box.git
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+      - name: Clone and run steam-box
+        run: |-
+          git clone https://github.com/naiheeeee/steam-box.git
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
-
-      - name: Run steam-box
-        shell: sh
-        run: |
+      - name: Commit and push
+        run: |-
           ./steam
-
-      - name: Commit changes
-        shell: sh
-        run: |
-          set -eu
-
-          git add README.md
-
-          if ! git diff --cached --quiet; then
-              git commit -S -m "Update Profile(Steam)"
-          fi
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git config --global user.email "naiheee6@gmail.com" && git config --global user.name "naihebot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull --rebase && git push

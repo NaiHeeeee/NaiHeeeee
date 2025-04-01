@@ -31,6 +31,7 @@ jobs:
 
       - name: Import GPG key for signing
         uses: crazy-max/ghaction-import-gpg@v6.2.0
+        id: import_gpg
         with:
           gpg_private_key: ${{ secrets.NAIHEBOT_GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
@@ -53,12 +54,24 @@ jobs:
           ./steam
 
       - name: Commit changes
-        shell: sh
+        shell: bash
+        env:
+          GIT_AUTHOR_NAME: ${{ steps.import_gpg.outputs.name }}
+          GIT_AUTHOR_EMAIL: ${{ steps.import_gpg.outputs.email }}
+          GIT_COMMITTER_NAME: ${{ steps.import_gpg.outputs.name }}
+          GIT_COMMITTER_EMAIL: ${{ steps.import_gpg.outputs.email }}
+          GPG_TTY: /dev/null
         run: |
           set -eu
-
+          
+          mkdir -p ~/.gnupg
+          echo 'no-tty' >> ~/.gnupg/gpg.conf
+          echo 'batch' >> ~/.gnupg/gpg.conf
+          echo 'pinentry-mode loopback' >> ~/.gnupg/gpg.conf
+          chmod 600 ~/.gnupg/gpg.conf
+          
           git add README.md
-
+          
           if ! git diff --cached --quiet; then
               git commit -S -m "Update Profile(Steam)"
           fi

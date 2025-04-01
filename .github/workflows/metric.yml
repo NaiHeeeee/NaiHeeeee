@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "2 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   metrics:
@@ -26,7 +23,7 @@ jobs:
           retries: 3
           retries_delay: 300
           use_prebuilt_image: yes
-                    
+
           # Committer
           committer_token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
           committer_message: 'Update metrics'

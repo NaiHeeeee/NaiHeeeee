@@ -21,13 +21,15 @@ jobs:
       MARKDOWN_FILE: README.md
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
         with:
           go-version: ^1.14
         id: go
-      - name: Check out repo
-        uses: actions/checkout@v2
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
@@ -37,7 +39,7 @@ jobs:
       - name: Commit and push
         run: |-
           ./steam
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com" && git config --global user.name "github-actions[bot]"
+          git config --global user.email "naiheee6@gmail.com" && git config --global user.name "NaiHeBot"
           git diff
           git add README.md && git commit -m ":memo: Update Profile (Steam)" || exit 0
           git pull --rebase && git push

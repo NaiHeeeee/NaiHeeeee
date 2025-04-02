@@ -39,7 +39,7 @@ jobs:
       - name: Commit and push
         run: |-
           ./steam
-          git config --global user.email "naiheee6@gmail.com" && git config --global user.name "NaiHeBot"
+          git config --global user.email "naiheeee6@gmail.com" && git config --global user.name "NaiHeBot"
           git diff
           git add README.md && git commit -m ":memo: Update Profile (Steam)" || exit 0
           git pull --rebase && git push

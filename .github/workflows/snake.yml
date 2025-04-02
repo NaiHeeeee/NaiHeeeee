@@ -40,5 +40,6 @@ jobs:
           build_dir: dist
           commit_message: ":memo: Update Profile (Snake)"
           committer: "NaiHeBot <naiheeee6@gmail.com>"
+          author: "NaiHeBot <naiheeee6@gmail.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}

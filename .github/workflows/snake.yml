@@ -35,4 +35,4 @@ jobs:
           build_dir: dist
           commit_message: ":memo: Update Profile (Snake)"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}

@@ -139,7 +139,7 @@
 <!-- steam-box end -->
 
 </td>
-</tr
+</tr>
   </table>
 </div>
 

@@ -11,6 +11,7 @@ on:
 jobs:
   build:
     name: Update-steam-playtime
+    if: ${{ github.actor != 'NaiHeBot' }}
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}

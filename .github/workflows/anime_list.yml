@@ -8,6 +8,7 @@ on:
 
 jobs:
   anime_list:
+    if: ${{ github.actor != 'NaiHeBot' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

@@ -152,8 +152,7 @@
 
 | 图片 | 番剧 | 图片 | 番剧 |
 | --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/d9/c4/212271_L38VV.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/d9/c4/212271_L38VV.jpg) | 魔女之旅 |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/99/17/292970_mxMxx.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/99/17/292970_mxMxx.jpg) | 魔女之旅 | | |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/99/17/292970_mxMxx.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/99/17/292970_mxMxx.jpg) | 魔女之旅 |
 
 
 </td>

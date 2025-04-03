@@ -31,7 +31,7 @@
 
 ---
 
-### ⭐ About My Github
+### ⭐ About My Github ⭐
 
 <div align="center">
   <table style="width: 100%;">
@@ -79,7 +79,7 @@
   </table>
 </div>
 
-### ⭐ Pinned
+### ⭐ Pinned ⭐
 <div align="center">
   <!-- 访问统计 -->
   <table style="width:100%;">
@@ -94,7 +94,7 @@
   </table>
 </div>
 
-### ⭐ About My Games
+### ⭐ About My Games ⭐
 
 <div align="center">
   <table style="width: 100%;">
@@ -143,15 +143,28 @@
   </table>
 </div>
 
+### ⭐ Anime ⭐
+
+<div align="center">
+<table style="width: 100%;">
+<tr>
+<td align="center" colspan="2">
+
+| 图片 | 番剧 | 图片 | 番剧 |
+| --- | --- | --- | --- |
+<% it.data.forEach(function (anime) { %><%= anime.index % 2 == 1 ? '|' : '' %> [<img src="<%= anime.subject.images.grid %>" width="48">](<%= anime.subject.images.large %>) | <%= anime.subject.name_cn %> |<%= anime.index % 2 == 0 ? '\n' : '' %><% }) %><%= it.data.length % 2 == 0 ? '' : ' | |\n' %>
+
+
+</td>
+</tr>
+</table>
+</div>
+
+### ⭐ Metrics ⭐
+
 <div align="center">
   <details>
     <summary>metrics</summary>
     <img src="github-metrics.svg" alt="Metrics" />
   </details>
 </div>
-
-### ⭐ Anime
-
-| 圖片 | 番劇 | 圖片 | 番劇 |
-| --- | --- | --- | --- |
-<% it.data.forEach(function (anime) { %><%= anime.index % 2 == 1 ? '|' : '' %> [<img src="<%= anime.subject.images.grid %>" width="48">](<%= anime.subject.images.large %>) | <%= anime.subject.name_cn %> |<%= anime.index % 2 == 0 ? '\n' : '' %><% }) %><%= it.data.length % 2 == 0 ? '' : ' | |\n' %>

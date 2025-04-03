@@ -31,7 +31,7 @@
 
 ---
 
-### ⭐ About My Github
+### ⭐ About My Github ⭐
 
 <div align="center">
   <table style="width: 100%;">
@@ -79,7 +79,7 @@
   </table>
 </div>
 
-### ⭐ Pinned
+### ⭐ Pinned ⭐
 <div align="center">
   <!-- 访问统计 -->
   <table style="width:100%;">
@@ -94,7 +94,7 @@
   </table>
 </div>
 
-### ⭐ About My Games
+### ⭐ About My Games ⭐
 
 <div align="center">
   <table style="width: 100%;">
@@ -143,16 +143,29 @@
   </table>
 </div>
 
+### ⭐ Anime ⭐
+
+<div align="center">
+<table style="width: 100%;">
+<tr>
+<td align="center" colspan="2">
+
+| 图片 | 番剧 | 图片 | 番剧 |
+| --- | --- | --- | --- |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/9d/9a/411276_Kzyt0.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/9d/9a/411276_Kzyt0.jpg) | 夜樱家的大作战 |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/66/6d/397604_TgJ63.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/66/6d/397604_TgJ63.jpg) | 亚托莉 -我挚爱的时光- | | |
+
+
+</td>
+</tr>
+</table>
+</div>
+
+### ⭐ Metrics ⭐
+
 <div align="center">
   <details>
     <summary>metrics</summary>
     <img src="github-metrics.svg" alt="Metrics" />
   </details>
 </div>
-
-### ⭐ Anime
-
-| 圖片 | 番劇 | 圖片 | 番劇 |
-| --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/9d/9a/411276_Kzyt0.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/9d/9a/411276_Kzyt0.jpg) | 夜樱家的大作战 |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/66/6d/397604_TgJ63.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/66/6d/397604_TgJ63.jpg) | 亚托莉 -我挚爱的时光- | | |

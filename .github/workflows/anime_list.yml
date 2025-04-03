@@ -14,11 +14,12 @@ jobs:
           token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
 
       - name: Update anime list
-        uses: ycs77/readme-anime-list@main
+        uses: naiheeeee/readme-anime-list@main
         with:
           target: 'README.md'
           template: 'template/README-eta.md'
           bangumi_username: 'naihe6'
+          type: 2
           bangumi_limit: 10
           user_agent: 'naiheeeee/naiheeeee README'
 

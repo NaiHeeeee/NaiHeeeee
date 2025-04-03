@@ -154,4 +154,5 @@
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-<% it.data.forEach(function (anime) { %><%= anime.index % 2 == 1 ? '|' : '' %> [<img src="<%= anime.subject.images.grid %>" width="48">](<%= anime.subject.images.large %>) | <%= anime.subject.name_cn %> |<%= anime.index % 2 == 0 ? '\n' : '' %><% }) %><%= it.data.length % 2 == 0 ? '' : ' | |\n' %>
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/9d/9a/411276_Kzyt0.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/9d/9a/411276_Kzyt0.jpg) | 夜樱家的大作战 |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/66/6d/397604_TgJ63.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/66/6d/397604_TgJ63.jpg) | 亚托莉 -我挚爱的时光- | | |

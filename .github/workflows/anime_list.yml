@@ -17,6 +17,7 @@ jobs:
         uses: ycs77/readme-anime-list@main
         with:
           target: 'README.md'
+          template: ''
           bangumi_username: 'naihe6'
           bangumi_limit: 10
           user_agent: 'naiheeeee/naiheeeee README'

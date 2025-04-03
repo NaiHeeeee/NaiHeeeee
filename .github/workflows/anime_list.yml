@@ -1,0 +1,30 @@
+name: Update anime list to README
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  anime_list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
+
+      - name: Update anime list
+        uses: ycs77/readme-anime-list@main
+        with:
+          target: 'README.md'
+          template: 'template/README-eta.md'
+          bangumi_username: 'naihe6'
+          bangumi_limit: 10
+          user_agent: 'naiheeeee/naiheeeee README'
+
+      - name: Commit and push
+        run: |-
+          git config --global user.email "naiheeee6@gmail.com" && git config --global user.name "NaiHeBot"
+          git diff
+          git add README.md && git commit -m ":memo: Update Profile (Bangumi)" || exit 0
+          git pull --rebase && git push

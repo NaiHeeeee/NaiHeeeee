@@ -31,22 +31,7 @@
 
 ---
 
-### Pinned
-<div align="center">
-  <!-- 访问统计 -->
-  <table style="width:100%;">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/NaiHeeeee/NaiHeeeee.github.io">
-          <img height='150'
-            src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### About My Github
+### ⭐ About My Github
 
 <div align="center">
   <table style="width: 100%;">
@@ -94,7 +79,22 @@
   </table>
 </div>
 
-### About My Games
+### ⭐ Pinned
+<div align="center">
+  <!-- 访问统计 -->
+  <table style="width:100%;">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NaiHeeeee/NaiHeeeee.github.io">
+          <img height='150'
+            src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⭐ About My Games
 
 <div align="center">
   <table style="width: 100%;">
@@ -149,3 +149,9 @@
     <img src="github-metrics.svg" alt="Metrics" />
   </details>
 </div>
+
+### ⭐ Anime
+
+| 圖片 | 番劇 | 圖片 | 番劇 |
+| --- | --- | --- | --- |
+<% it.data.forEach(function (anime) { %><%= anime.index % 2 == 1 ? '|' : '' %> <img src="<%= anime.subject.images.grid %>" width="48"> | <%= anime.subject.name_cn %> |<%= anime.index % 2 == 0 ? '\n' : '' %><% }) %><%= it.data.length % 2 == 0 ? '' : ' | |\n' %

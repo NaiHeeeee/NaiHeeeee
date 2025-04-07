@@ -37,32 +37,32 @@
   <table style="width: 100%;">
     <tr>
       <td align="center" colspan="2">
-        <a href="https://github-profile-summary-cards.naihee.cn">
-          <img src="https://github-profile-summary-cards.naihee.cn//api/cards/profile-details?username=NaiHeeeee&theme=aura" />
+        <a>
+          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/0-profile-details.svg" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github-profile-summary-cards.naihee.cn">
-          <img src="https://github-profile-summary-cards.naihee.cn//api/cards/repos-per-language?username=NaiHeeeee&theme=aura" />
+        <a>
+          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/1-repos-per-language.svg" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github-profile-summary-cards.naihee.cn">
-          <img src="https://github-profile-summary-cards.naihee.cn//api/cards/most-commit-language?username=NaiHeeeee&theme=aura" />
+        <a>
+          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/2-most-commit-language.svg" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github-profile-summary-cards.naihee.cn">
-          <img src="https://github-profile-summary-cards.naihee.cn//api/cards/stats?username=NaiHeeeee&theme=aura" />
+        <a>
+          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/3-stats.svg" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github-profile-summary-cards.naihee.cn">
-          <img src="https://github-profile-summary-cards.naihee.cn//api/cards/productive-time?username=NaiHeeeee&theme=aura&utcOffset=8" />
+        <a>
+          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/4-productive-time.svg" />
         </a>
       </td>
     </tr>

@@ -73,7 +73,7 @@
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/output/github-contribution-grid-snake.svg" />
+        <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/snake-output/github-contribution-grid-snake.svg" />
       </td>
     </tr>
   </table>

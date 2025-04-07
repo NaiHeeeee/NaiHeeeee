@@ -38,31 +38,31 @@
     <tr>
       <td align="center" colspan="2">
         <a>
-          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/0-profile-details.svg" />
+          <img src="/profile-summary-card-output/aura/0-profile-details.svg" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a>
-          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/1-repos-per-language.svg" />
+          <img src="/profile-summary-card-output/aura/1-repos-per-language.svg" />
         </a>
       </td>
       <td align="center">
         <a>
-          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/2-most-commit-language.svg" />
+          <img src="/profile-summary-card-output/aura/2-most-commit-language.svg" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a>
-          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/3-stats.svg" />
+          <img src="/profile-summary-card-output/aura/3-stats.svg" />
         </a>
       </td>
       <td align="center">
         <a>
-          <img src="https://raw.githubusercontent.com/NaiHeeeee/NaiHeeeee/profile-summary-card-output/aura/4-productive-time.svg" />
+          <img src="/profile-summary-card-output/aura/4-productive-time.svg" />
         </a>
       </td>
     </tr>

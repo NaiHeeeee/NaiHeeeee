@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
-          
+
       - name: Generate Metrics
         uses: lowlighter/metrics@master
         with:
@@ -54,6 +54,11 @@ jobs:
           # Traffic plugin
           plugin_traffic: yes
 
+          # Starred topics plugin
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
           # Isometric commit calendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -67,8 +72,9 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: NaiHe
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 1
+          plugin_anilist_limit_characters: 22
 
           # Commit calendar plugin
           plugin_calendar: yes

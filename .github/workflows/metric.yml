@@ -10,7 +10,13 @@ jobs:
     if: ${{ github.actor != 'NaiHeBot' }}
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
+          
+      - name: Generate Metrics
+        uses: lowlighter/metrics@master
         with:
           # GH Token
           token: ${{ secrets.GH_TOKEN }}

@@ -37,5 +37,5 @@ jobs:
         run: |-
           git config --global user.email "naiheeee6@gmail.com" && git config --global user.name "NaiHeBot"
           git diff
-          git add README.md && git commit -m ":memo: Update Profile (Summary Cards)" || exit 0
+          git add profile-summary-card-output && git commit -m ":memo: Update Profile (Summary Cards)" || exit 0
           git pull --rebase && git push

@@ -81,7 +81,6 @@
 
 ### ⭐ Pinned ⭐
 <div align="center">
-  <!-- 访问统计 -->
   <table style="width:100%;">
     <tr>
       <td align="center">

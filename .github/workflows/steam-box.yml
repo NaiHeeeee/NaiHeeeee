@@ -1,4 +1,4 @@
-name: Update steam playtime
+name: Update Steam Playtime
 
 on:
   schedule:

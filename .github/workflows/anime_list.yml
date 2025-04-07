@@ -1,4 +1,4 @@
-name: Update anime list to README
+name: Update Anime List
 
 on:
   schedule:

@@ -36,10 +36,24 @@ jobs:
       - name: Commit and push
         run: |-
           git config --global user.email "naiheeee6@gmail.com" && git config --global user.name "NaiHeBot"
-          git diff
-          git add profile-summary-card-output
-          git commit -m ":memo: Update Profile (Summary Cards)" || exit 0
-          git fetch origin
+          # 创建临时目录
+          mkdir -p temp-branch
+          # 复制profile-summary-card-output中的内容到临时目录
+          cp -r profile-summary-card-output/* temp-branch/
+          # 获取当前分支
+          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          # 创建并切换到新分支
           git checkout -b profile-summary-card-output || git checkout profile-summary-card-output
-          git pull --rebase origin profile-summary-card-output || true
-          git push origin profile-summary-card-output
+          # 删除分支中所有现有内容
+          git rm -rf .
+          # 移动临时目录中的内容到根目录
+          mv temp-branch/* .
+          # 清理临时目录
+          rm -rf temp-branch
+          # 添加和提交变更
+          git add .
+          git commit -m ":memo: Update Profile (Summary Cards)" || exit 0
+          # 推送分支
+          git push origin profile-summary-card-output --force
+          # 切回原分支
+          git checkout $CURRENT_BRANCH

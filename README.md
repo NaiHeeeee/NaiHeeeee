@@ -79,6 +79,12 @@
   </table>
 </div>
 
+### ⭐ WakaTime ⭐
+
+<div align="center">
+  <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
+</div>
+
 ### ⭐ Pinned ⭐
 <div align="center">
   <table style="width:100%;">

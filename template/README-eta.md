@@ -31,6 +31,19 @@
 
 ---
 
+<div align="center">
+
+<!-- year progress start -->
+⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.16 %
+
+
+⏰ Updated on Thursday, April 10, 2025 at 11:26:52 AM GMT+8
+<!-- year progress end -->
+
+---
+
+</div>
+
 ### ⭐ About My Github ⭐
 
 <div align="center">

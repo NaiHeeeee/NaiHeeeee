@@ -23,8 +23,6 @@ async function updateReadme() {
         const progressSection = `\
 ⏳ Year progress ${generateProgressBar()} ${(progressOfThisYear * 100).toFixed(2)} %
 
----
-
 ⏰ Updated on ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Shanghai', dateStyle: 'full', timeStyle: 'long' })}`;
 
         // Find the markers and replace content between them

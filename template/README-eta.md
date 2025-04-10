@@ -81,11 +81,23 @@
 
 ### ⭐ WakaTime ⭐
 
-<div align="center">
-  <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
+<div align="center" >
+  <table style="width: 100%;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other&layout=compact" alt="WakaTime" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### ⭐ Pinned ⭐
+
 <div align="center">
   <table style="width:100%;">
     <tr>

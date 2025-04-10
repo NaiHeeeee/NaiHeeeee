@@ -52,7 +52,7 @@ jobs:
           # 隐藏语言
           IGNORED_LANGUAGES: TOML Binary # optional
           ### commit
-          COMMIT_MESSAGE: ":memo: Update Profile (Year Progress)" # optional
+          COMMIT_MESSAGE: ":memo: Update Profile (waka)" # optional
           TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: NaiHeBot # optional

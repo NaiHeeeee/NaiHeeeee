@@ -35,7 +35,8 @@ jobs:
           # 高亮语法 ->语言
           CODE_LANG: rust # optional
           # 统计时间
-          TIME_RANGE: all_time # optional
+          # last_7_days, last_30_days, last_6_months, last_year, all_time
+          TIME_RANGE: last_7_days # optional
           # 语言数量
           LANG_COUNT: 5 # optional
           # 每种语言时间
@@ -47,7 +48,7 @@ jobs:
           # 当标记为 Other 的语言被检索时停止（覆盖： LANG_COUNT ）
           STOP_AT_OTHER: true # optional
           # 隐藏语言
-          IGNORED_LANGUAGES: TOML Binary # optional
+          IGNORED_LANGUAGES: Other TOML Binary # optional
           ### commit
           COMMIT_MESSAGE: ":memo: Update Profile (waka)" # optional
           TARGET_BRANCH: main # optional

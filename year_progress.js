@@ -1,4 +1,4 @@
-const fs = require('fs').promises; // For Node.js file operations
+const fs = require('fs').promises;
 
 const thisYear = new Date().getFullYear();
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime();
@@ -10,46 +10,46 @@ function generateProgressBar() {
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity);
     const progressBar =
         '█'.repeat(passedProgressBarIndex) +
-        '▁'.repeat(progressBarCapacity - passedProgressBarIndex);
+        ' '.repeat(progressBarCapacity - passedProgressBarIndex);
     return `{ ${progressBar} }`;
 }
 
 async function updateReadme() {
     try {
-        // Read the existing README.md file
+        // 读取现有的 README.md 文件
         let readmeContent = await fs.readFile('README.md', 'utf8');
         
-        // Prepare the progress section
+        // 准备进度部分
         const progressSection = `\
 ⏳ Year progress ${generateProgressBar()} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ⏰ Updated on ${new Date().toLocaleString('en-US', { timeZone: 'Asia/Shanghai', dateStyle: 'full', timeStyle: 'long' })}`;
 
-        // Find the markers and replace content between them
+        // 查找标记并替换它们之间的内容
         const startMarker = '<!-- year progress start -->';
         const endMarker = '<!-- year progress end -->';
         const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
         const endIndex = readmeContent.indexOf(endMarker);
         
         if (startIndex === -1 || endIndex === -1) {
-            throw new Error('Could not find year progress markers in README.md');
+            throw new Error('无法在 README.md 中找到 year progress 标记');
         }
 
-        // Construct new content
+        // 构造新的内容
         const newReadme = 
             readmeContent.substring(0, startIndex) +
             '\n' + progressSection + '\n' +
             readmeContent.substring(endIndex);
 
-        // Write the updated content back to README.md
+        // 将更新后的内容写回 README.md
         await fs.writeFile('README.md', newReadme, 'utf8');
-        console.log('README.md has been updated successfully');
+        console.log('README.md 已成功更新');
         console.log(newReadme);
 
     } catch (error) {
-        console.error('Error updating readme:', error);
+        console.error('更新 README 时出错:', error);
     }
 }
 
-// Execute the update
+// 执行更新
 updateReadme();

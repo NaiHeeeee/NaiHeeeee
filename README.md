@@ -166,23 +166,23 @@ Perl         15 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <table>
   <tr>
     <td>💻 Wallpaper Engine</td>
-    <td>🕘 24113 hrs 37 mins</td>
+    <td>🕘 24115 hrs 39 mins</td>
   </tr>
   <tr>
     <td>🎮 魔女的夜宴</td>
-    <td>🕘 7415 hrs 15 mins</td>
+    <td>🕘 7417 hrs 16 mins</td>
   </tr>
   <tr>
     <td>🎮 Riddle Joker</td>
-    <td>🕘 7392 hrs 38 mins</td>
+    <td>🕘 7394 hrs 40 mins</td>
   </tr>
   <tr>
     <td>🎮 Cafe Stella</td>
-    <td>🕘 7392 hrs 8 mins</td>
+    <td>🕘 7394 hrs 10 mins</td>
   </tr>
   <tr>
     <td>🎮 Senren＊Banka</td>
-    <td>🕘 7364 hrs 0 mins</td>
+    <td>🕘 7366 hrs 1 mins</td>
   </tr>
 </table>
 <!-- Powered by https://github.com/NaiHeeeee/steam-box . -->

@@ -50,7 +50,7 @@ jobs:
           # 当标记为 Other 的语言被检索时停止（覆盖： LANG_COUNT ）
           STOP_AT_OTHER: true # optional
           # 隐藏语言
-          IGNORED_LANGUAGES: JSON TOML Binary # optional
+          IGNORED_LANGUAGES: TOML Binary # optional
           ### commit
           COMMIT_MESSAGE: ":memo: Update Profile (Year Progress)" # optional
           TARGET_BRANCH: main # optional
@@ -58,5 +58,5 @@ jobs:
           COMMITTER_NAME: NaiHeBot # optional
           COMMITTER_EMAIL: naiheeee6@gmail.com # optional
           AUTHOR_NAME: NaiHe # optional
-          AUTHOR_EMAIL: naiheee6@gmail.com # optional
+          AUTHOR_EMAIL: naiheeee6@gmail.com # optional
           # you can populate email-id with secrets instead

@@ -3,7 +3,7 @@ name: Update Year Progress
 on:
   schedule:
     # run automatically every 24 hours
-    - cron: '0 0 * * *'
+    - cron: '0 0/6 * * *'
   workflow_dispatch:
 
 jobs:

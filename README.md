@@ -50,31 +50,31 @@
     <tr>
       <td align="center" colspan="2">
         <a>
-          <img src="/profile-summary-card-output/aura/0-profile-details.svg" />
+          <img src="./profile-summary-card-output/aura/0-profile-details.svg" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a>
-          <img src="/profile-summary-card-output/aura/1-repos-per-language.svg" />
+          <img src="./profile-summary-card-output/aura/1-repos-per-language.svg" />
         </a>
       </td>
       <td align="center">
         <a>
-          <img src="/profile-summary-card-output/aura/2-most-commit-language.svg" />
+          <img src="./profile-summary-card-output/aura/2-most-commit-language.svg" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a>
-          <img src="/profile-summary-card-output/aura/3-stats.svg" />
+          <img src="./profile-summary-card-output/aura/3-stats.svg" />
         </a>
       </td>
       <td align="center">
         <a>
-          <img src="/profile-summary-card-output/aura/4-productive-time.svg" />
+          <img src="./profile-summary-card-output/aura/4-productive-time.svg" />
         </a>
       </td>
     </tr>
@@ -94,18 +94,27 @@
 ### ⭐ WakaTime ⭐
 
 <div align="center" >
-  <table style="width: 100%;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other&layout=compact" alt="WakaTime" />
-      </td>
-    </tr>
-  </table>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</div>
+
+<div align="center" >
+  <details>
+    <summary>WakaTime Stats</summary>
+    <table style="width: 100%;">
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other&layout=compact" alt="WakaTime" />
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ### ⭐ Pinned ⭐

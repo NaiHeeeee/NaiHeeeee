@@ -1,0 +1,62 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC every day
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    if: ${{ github.actor != 'NaiHeBot' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
+      # this action name
+      - uses: athul/waka-readme@master 
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # required
+          ### meta
+          API_BASE_URL: https://api.wakatime.com/api/v1/ # optional
+          REPOSITORY: NaiHeeeee/NaiHeeeee # optional
+          ### content
+          # 标题
+          SHOW_TITLE: true # optional
+          # 名称
+          SECTION_NAME: waka # optional
+          # 图形
+          BLOCKS: ⬜🟨🟩 # optional
+          # 高亮语法 ->语言
+          CODE_LANG: rust # optional
+          # 统计时间
+          TIME_RANGE: all_time # optional
+          # 语言数量
+          LANG_COUNT: 5 # optional
+          # 每种语言时间
+          SHOW_TIME: true # optional
+          # 总时间
+          SHOW_TOTAL: true # optional
+          # 添加包括未分类语言在内的总编码时间（覆盖： SHOW_TOTAL ）
+          SHOW_MASKED_TIME: false # optional
+          # 当标记为 Other 的语言被检索时停止（覆盖： LANG_COUNT ）
+          STOP_AT_OTHER: true # optional
+          # 隐藏语言
+          IGNORED_LANGUAGES: JSON TOML Binary # optional
+          ### commit
+          COMMIT_MESSAGE: ":memo: Update Profile (Year Progress)" # optional
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: NaiHeBot # optional
+          COMMITTER_EMAIL: naiheeee6@gmail.com # optional
+          AUTHOR_NAME: NaiHe # optional
+          AUTHOR_EMAIL: naiheee6@gmail.com # optional
+          # you can populate email-id with secrets instead

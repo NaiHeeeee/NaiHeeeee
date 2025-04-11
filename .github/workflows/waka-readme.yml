@@ -21,44 +21,27 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
-      # this action name
-      - uses: athul/waka-readme@master 
+
+      - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: NaiHeeeee/NaiHeeeee # optional
-          ### content
-          # 标题
-          SHOW_TITLE: true # optional
-          # 名称
-          SECTION_NAME: waka # optional
-          # 图形
-          BLOCKS: ⬜🟨🟩 # optional
-          # 高亮语法 ->语言
-          CODE_LANG: rust # optional
-          # 统计时间
-          # last_7_days, last_30_days, last_6_months, last_year, all_time
-          TIME_RANGE: last_7_days # optional
-          # 语言数量
-          LANG_COUNT: 7 # optional
-          # 每种语言时间
-          SHOW_TIME: true # optional
-          # 总时间
-          SHOW_TOTAL: true # optional
-          # 添加包括未分类语言在内的总编码时间（覆盖： SHOW_TOTAL ）
-          SHOW_MASKED_TIME: false # optional
-          # 当标记为 Other 的语言被检索时停止（覆盖： LANG_COUNT ）
-          STOP_AT_OTHER: true # optional
-          # 隐藏语言
-          IGNORED_LANGUAGES: Other TOML Binary # optional
-          ### commit
-          COMMIT_MESSAGE: ":memo: Update Profile (waka)" # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: NaiHeBot # optional
-          COMMITTER_EMAIL: naiheeee6@gmail.com # optional
-          AUTHOR_NAME: NaiHe # optional
-          AUTHOR_EMAIL: naiheeee6@gmail.com # optional
-          # you can populate email-id with secrets instead
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          GH_TOKEN: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
+          COMMIT_MESSAGE: ":memo: Update Profile (waka)"
+          COMMIT_USERNAME: NaiHeBot
+          COMMIT_EMAIL: naiheeee6@gmail.com
+          # 段落末尾显示更新日期
+          SHOW_UPDATED_DATE: "true"
+          # 迄今为止编写的代码行数
+          SHOW_LINES_OF_CODE: "false"
+          # 不同年份不同季度编写的代码行数
+          SHOW_LOC_CHART: "false"
+          # 不同语言和框架的存储库数量
+          SHOW_LANGUAGE_PER_REPO: "false"
+          # 参与的项目
+          SHOW_PROJECTS: "false"
+          # 用户的简短趣闻信息
+          SHOW_SHORT_INFO: "false"
+          # 人资料浏览量
+          SHOW_PROFILE_VIEWS: "false"
+          # 代码时间
+          SHOW_TOTAL_CODE_TIME: "false"

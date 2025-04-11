@@ -14,10 +14,10 @@ function generateProgressBar() {
     return `{ ${progressBar} }`;
 }
 
-async function updateReadme() {
+async function updateReadme(filename) {
     try {
-        // 读取现有的 README.md 文件
-        let readmeContent = await fs.readFile(`README.md`, `utf8`);
+        // 读取现有的 README 文件
+        let readmeContent = await fs.readFile(filename, `utf8`);
         
         // 准备进度部分
         const progressSection = `\
@@ -25,14 +25,14 @@ async function updateReadme() {
 
 ⏰ Updated on ${new Date().toLocaleString(`en-US`, { timeZone: `Asia/Shanghai`, dateStyle: `full`, timeStyle: `long`, hour12: false })}`;
 
-        // 查找标记并替换它们之间的内容
+        // 更新文件内容
         const startMarker = `<!-- year progress start -->`;
         const endMarker = `<!-- year progress end -->`;
         const startIndex = readmeContent.indexOf(startMarker) + startMarker.length;
         const endIndex = readmeContent.indexOf(endMarker);
         
         if (startIndex === -1 || endIndex === -1) {
-            throw new Error(`无法在 README.md 中找到 year progress 标记`);
+            throw new Error(`无法在 ${filename} 中找到 year progress 标记`);
         }
 
         // 构造新的内容
@@ -41,19 +41,25 @@ async function updateReadme() {
             `\n` + progressSection + `\n` +
             readmeContent.substring(endIndex);
 
-        // 将更新后的内容写回 README.md
-        await fs.writeFile(`README.md`, newReadme, `utf8`);
+        // 将更新后的内容写回文件
+        await fs.writeFile(filename, newReadme, `utf8`);
+        
         console.log(`\
-README.md 已成功更新
+${filename} 已成功更新
 更新内容：
 ------------------------------------------------------------
 ${progressSection}
 ------------------------------------------------------------\
         `);
     } catch (error) {
-        console.error(`更新 README 时出错:`, error);
+        console.error(`更新 ${filename} 时出错:`, error);
     }
 }
 
 // 执行更新
-updateReadme();
+async function updateAllReadme() {
+    await updateReadme(`README.md`);
+    await updateReadme(`template/README-eta.md`);
+}
+
+updateAllReadme();

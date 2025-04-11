@@ -18,7 +18,7 @@ jobs:
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: MARKDOWN
-      MARKDOWN_FILE: README.md
+      MARKDOWN_FILE: README.md,README-eta.md
 
     steps:
       - name: Checkout repository

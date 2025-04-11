@@ -3,9 +3,13 @@ name: Update Waka
 on:
   # for manual workflow trigger
   workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC every day
-    - cron: "0 0 * * *"
+  # schedule:
+  #   # runs at 12 AM UTC every day
+  #   - cron: "0 0 * * *"
+  workflow_run:
+    workflows: ["Update Anime List"]
+    types:
+      - completed
 
 jobs:
   update-readme:
@@ -38,7 +42,7 @@ jobs:
           # last_7_days, last_30_days, last_6_months, last_year, all_time
           TIME_RANGE: last_7_days # optional
           # 语言数量
-          LANG_COUNT: 5 # optional
+          LANG_COUNT: 7 # optional
           # 每种语言时间
           SHOW_TIME: true # optional
           # 总时间

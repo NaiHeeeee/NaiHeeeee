@@ -34,9 +34,10 @@
 <div align="center">
 
 <!-- year progress start -->
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.33 %
+⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.16 %
 
-⏰ Updated on Friday, April 11, 2025 at 02:26:54 GMT+8
+
+⏰ Updated on Thursday, April 10, 2025 at 11:26:52 AM GMT+8
 <!-- year progress end -->
 
 ---
@@ -96,18 +97,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 02 April 2025 - To: 09 April 2025
-
-Total Time: 3 hrs 23 mins
-
-Ruby         49 mins         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.56 %
-YAML         45 mins         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.39 %
-JavaScript   41 mins         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.63 %
-Python       34 mins         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.61 %
-Perl         15 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.90 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 
@@ -166,23 +155,23 @@ Perl         15 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <table>
   <tr>
     <td>💻 Wallpaper Engine</td>
-    <td>🕘 24121 hrs 42 mins</td>
+    <td>🕘 23938 hrs 27 mins</td>
   </tr>
   <tr>
     <td>🎮 魔女的夜宴</td>
-    <td>🕘 7423 hrs 20 mins</td>
+    <td>🕘 7240 hrs 4 mins</td>
   </tr>
   <tr>
     <td>🎮 Riddle Joker</td>
-    <td>🕘 7400 hrs 43 mins</td>
+    <td>🕘 7217 hrs 28 mins</td>
   </tr>
   <tr>
     <td>🎮 Cafe Stella</td>
-    <td>🕘 7400 hrs 13 mins</td>
+    <td>🕘 7216 hrs 58 mins</td>
   </tr>
   <tr>
     <td>🎮 Senren＊Banka</td>
-    <td>🕘 7372 hrs 4 mins</td>
+    <td>🕘 7188 hrs 49 mins</td>
   </tr>
 </table>
 <!-- Powered by https://github.com/NaiHeeeee/steam-box . -->

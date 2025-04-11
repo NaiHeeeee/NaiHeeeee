@@ -27,6 +27,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
           COMMIT_MESSAGE: ":memo: Update Profile (waka)"
+          COMMIT_BY_ME: "false"
           COMMIT_USERNAME: NaiHeBot
           COMMIT_EMAIL: naiheeee6@gmail.com
           # 段落末尾显示更新日期

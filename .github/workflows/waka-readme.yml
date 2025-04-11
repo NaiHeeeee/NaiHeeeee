@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   # schedule:
-  #   # runs at 12 AM UTC every day
-  #   - cron: "0 0 * * *"
+  #   # runs at 04:00 BJT every day
+  #   - cron: "0 20 * * *"
   workflow_run:
     workflows: ["Update Anime List"]
     types:

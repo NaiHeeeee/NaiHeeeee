@@ -25,7 +25,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          GH_TOKEN: ${{ secrets.NAIHEBOT_GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: ":memo: Update Profile (waka)"
           COMMIT_BY_ME: "false"
           COMMIT_USERNAME: NaiHeBot

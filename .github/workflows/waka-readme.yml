@@ -42,7 +42,7 @@ jobs:
           # last_7_days, last_30_days, last_6_months, last_year, all_time
           TIME_RANGE: last_7_days # optional
           # 语言数量
-          LANG_COUNT: 7 # optional
+          LANG_COUNT: 6 # optional
           # 每种语言时间
           SHOW_TIME: true # optional
           # 总时间

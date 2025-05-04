@@ -36,7 +36,7 @@
 <!-- year progress start -->
 ⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.91 %
 
-⏰ Updated on Monday, May 5, 2025 at 02:27:43 GMT+8
+⏰ Updated on Monday, May 5, 2025 at 02:27:44 GMT+8
 <!-- year progress end -->
 
 ---
@@ -95,14 +95,6 @@
 
 <div align="center" >
 <!--START_SECTION:waka-->
-
-```rust
-From: 26 April 2025 - To: 03 May 2025
-
-Total Time: 12 mins
-
-Python   12 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜   66.35 %
-```
 
 <!--END_SECTION:waka-->
 </div>

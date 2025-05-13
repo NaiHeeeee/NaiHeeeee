@@ -96,12 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 05 May 2025 - To: 12 May 2025
-
-Total Time: 0 secs
-```
-
 <!--END_SECTION:waka-->
 </div>
 

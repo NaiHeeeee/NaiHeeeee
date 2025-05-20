@@ -34,9 +34,9 @@
 <div align="center">
 
 <!-- year progress start -->
-⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.16 %
+⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.23 %
 
-⏰ Updated on Tuesday, May 20, 2025 at 14:32:29 GMT+8
+⏰ Updated on Tuesday, May 20, 2025 at 20:47:21 GMT+8
 <!-- year progress end -->
 
 ---

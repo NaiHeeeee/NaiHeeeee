@@ -96,6 +96,14 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
+```rust
+From: 18 May 2025 - To: 25 May 2025
+
+Total Time: 7 mins
+
+Python   7 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   89.82 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 

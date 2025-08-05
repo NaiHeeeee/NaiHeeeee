@@ -36,7 +36,7 @@
 <!-- year progress start -->
 ⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.39 %
 
-⏰ Updated on Wednesday, August 6, 2025 at 02:38:22 GMT+8
+⏰ Updated on Wednesday, August 6, 2025 at 02:38:23 GMT+8
 <!-- year progress end -->
 
 ---
@@ -95,16 +95,6 @@
 
 <div align="center" >
 <!--START_SECTION:waka-->
-
-```rust
-From: 28 July 2025 - To: 04 August 2025
-
-Total Time: 2 hrs 11 mins
-
-JavaScript   1 hr 33 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜   61.01 %
-Markdown     35 mins         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.95 %
-JSON         2 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.79 %
-```
 
 <!--END_SECTION:waka-->
 </div>

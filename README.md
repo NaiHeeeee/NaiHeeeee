@@ -96,16 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 29 July 2025 - To: 05 August 2025
-
-Total Time: 1 hr 18 mins
-
-Markdown     41 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.31 %
-JavaScript   36 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.15 %
-SVG          0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.04 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 
@@ -200,7 +190,7 @@ SVG          0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | 图片 | 番剧 | 图片 | 番剧 |
 | --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/99/17/292970_mxMxx.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/99/17/292970_mxMxx.jpg) | 魔女之旅 |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/99/17/292970_mxMxx.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/99/17/292970_mxMxx.jpg) | 魔女之旅 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7c/8e/424883_BpzVb.jpg) | 不时轻声地以俄语遮羞的邻座艾莉同学 |
 
 
 </td>

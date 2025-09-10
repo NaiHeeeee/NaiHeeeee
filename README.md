@@ -36,7 +36,7 @@
 <!-- year progress start -->
 ⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.25 %
 
-⏰ Updated on Thursday, September 11, 2025 at 02:30:18 GMT+8
+⏰ Updated on Thursday, September 11, 2025 at 02:30:19 GMT+8
 <!-- year progress end -->
 
 ---
@@ -95,14 +95,6 @@
 
 <div align="center" >
 <!--START_SECTION:waka-->
-
-```rust
-From: 02 September 2025 - To: 09 September 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 </div>

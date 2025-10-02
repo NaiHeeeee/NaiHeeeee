@@ -96,15 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 23 September 2025 - To: 30 September 2025
-
-Total Time: 2 hrs 31 mins
-
-JavaScript   2 hrs 31 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜   95.70 %
-JSON         0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.02 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 

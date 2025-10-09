@@ -96,6 +96,15 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
+```rust
+From: 02 October 2025 - To: 09 October 2025
+
+Total Time: 17 mins
+
+Markdown     11 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.60 %
+JavaScript   5 mins          🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.25 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 

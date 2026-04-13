@@ -96,18 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 05 April 2026 - To: 12 April 2026
-
-Total Time: 3 hrs 48 mins
-
-JSON         1 hr 50 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.95 %
-Rust         29 mins               🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.66 %
-JavaScript   24 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.72 %
-Markdown     23 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.48 %
-YAML         20 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.51 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 
@@ -150,12 +138,12 @@ YAML         20 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://hoyocard.qhy04.com/gs/detail/rand/184570872.png" alt="Genshin Impact Card" />
+        <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
       </td>
     </tr>
     <tr>
       <td align="center">
-         <img src="https://hoyocard.qhy04.com/sr/detail/rand/184570872.png" alt="Starrail Card" />
+         <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
       </td>
     </tr>
     <tr>

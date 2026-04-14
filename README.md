@@ -140,6 +140,8 @@ JavaScript   2 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
             src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" />
         </a>
       </td>
+    </tr>
+    <tr>  
       <td align="center">
         <a href="https://github.com/NaiHeeeee/repkg-gui">
           <img height='150'

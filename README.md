@@ -140,9 +140,16 @@ JavaScript   2 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
             src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=naiheeeee.github.io&theme=tokyonight" />
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/NaiHeeeee/repkg-gui">
+          <img height='150'
+            src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=repkg-gui&theme=tokyonight" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
+
 
 ### ⭐ About My Games ⭐
 
@@ -150,16 +157,17 @@ JavaScript   2 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
+        <img src="https://hoyocard.qhy04.com/gs/detail/rand/184570872.png" alt="Genshin Impact Card" />
       </td>
     </tr>
     <tr>
       <td align="center">
-         <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
+         <img src="https://hoyocard.qhy04.com/sr/detail/rand/184570872.png" alt="Starrail Card" />
       </td>
     </tr>
     <tr>
 <td align="center">
+
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard

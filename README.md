@@ -96,18 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 06 April 2026 - To: 13 April 2026
-
-Total Time: 2 hrs 6 mins
-
-JSON         1 hr 22 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜   61.88 %
-YAML         20 mins               🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.67 %
-HTML         11 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.46 %
-NSIS         5 mins                🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.88 %
-JavaScript   2 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.16 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 
@@ -141,17 +129,8 @@ JavaScript   2 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
         </a>
       </td>
     </tr>
-    <tr>  
-      <td align="center">
-        <a href="https://github.com/NaiHeeeee/repkg-gui">
-          <img height='150'
-            src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=repkg-gui&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
-
 
 ### ⭐ About My Games ⭐
 
@@ -159,17 +138,16 @@ JavaScript   2 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <table style="width: 100%;">
     <tr>
       <td align="center">
-        <img src="https://hoyocard.qhy04.com/gs/detail/rand/184570872.png" alt="Genshin Impact Card" />
+        <img src="https://hoyocard.qhy04.com/gs/detail/75/184570872.png" alt="Genshin Impact Card" />
       </td>
     </tr>
     <tr>
       <td align="center">
-         <img src="https://hoyocard.qhy04.com/sr/detail/rand/184570872.png" alt="Starrail Card" />
+         <img src="https://hoyocard.qhy04.com/sr/detail/0/184570872.png" alt="Starrail Card" />
       </td>
     </tr>
     <tr>
 <td align="center">
-
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard

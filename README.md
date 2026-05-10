@@ -96,14 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 02 May 2026 - To: 09 May 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 </div>
 
@@ -115,6 +107,8 @@ No activity tracked
         <td align="center">
           <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
         </td>
+      </tr>
+      <tr>
         <td align="center">
           <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other&layout=compact" alt="WakaTime" />
         </td>

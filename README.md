@@ -115,8 +115,6 @@ No activity tracked
         <td align="center">
           <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other" alt="WakaTime" />
         </td>
-      </tr>
-      <tr>
         <td align="center">
           <img src="https://github-readme-stats.naihee.cn/api/wakatime?username=naihe&hide=Other&layout=compact" alt="WakaTime" />
         </td>
@@ -137,6 +135,14 @@ No activity tracked
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NaiHeeeee/repkg-gui">
+          <img height='150'
+            src="https://github-readme-stats.naihee.cn/api/pin/?username=naiheeeee&repo=repkg-gui&theme=tokyonight" />
+        </a>
+        </td>
+      </tr>
   </table>
 </div>
 

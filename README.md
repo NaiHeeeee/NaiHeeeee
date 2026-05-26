@@ -36,7 +36,7 @@
 <!-- year progress start -->
 ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.96 %
 
-⏰ Updated on Wednesday, May 27, 2026 at 04:12:06 GMT+8
+⏰ Updated on Wednesday, May 27, 2026 at 04:12:07 GMT+8
 <!-- year progress end -->
 
 ---
@@ -95,14 +95,6 @@
 
 <div align="center" >
 <!--START_SECTION:waka-->
-
-```rust
-From: 18 May 2026 - To: 25 May 2026
-
-Total Time: 1 hr 3 mins
-
-JavaScript   1 hr 3 mins           🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
-```
 
 <!--END_SECTION:waka-->
 </div>

@@ -96,14 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 17 June 2026 - To: 24 June 2026
-
-Total Time: 1 hr 53 mins
-
-JavaScript   1 hr 53 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜   96.74 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 

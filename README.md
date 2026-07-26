@@ -97,12 +97,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 July 2026 - To: 24 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 49 mins
+Total Time: 40 mins
 
-JavaScript   40 mins               🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   67.86 %
-PowerShell   9 mins                🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.18 %
+JavaScript   40 mins               🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜   80.01 %
 ```
 
 <!--END_SECTION:waka-->

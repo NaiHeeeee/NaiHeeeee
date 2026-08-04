@@ -171,23 +171,23 @@ JSON         7 mins                🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <table>
   <tr>
     <td>💻 Wallpaper Engine</td>
-    <td>🕘 35108 hrs 56 mins</td>
+    <td>🕘 35110 hrs 26 mins</td>
   </tr>
   <tr>
     <td>🍊 魔女的夜宴</td>
-    <td>🕘 18078 hrs 43 mins</td>
+    <td>🕘 18080 hrs 13 mins</td>
   </tr>
   <tr>
     <td>🍊 Riddle Joker</td>
-    <td>🕘 18056 hrs 6 mins</td>
+    <td>🕘 18057 hrs 36 mins</td>
   </tr>
   <tr>
     <td>🍊 Cafe Stella</td>
-    <td>🕘 18055 hrs 7 mins</td>
+    <td>🕘 18056 hrs 37 mins</td>
   </tr>
   <tr>
     <td>🍊 Senren＊Banka</td>
-    <td>🕘 18026 hrs 58 mins</td>
+    <td>🕘 18028 hrs 28 mins</td>
   </tr>
 </table>
 <!-- Powered by https://github.com/NaiHeeeee/steam-box . -->

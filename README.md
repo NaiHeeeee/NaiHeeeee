@@ -171,23 +171,23 @@ PowerShell   0 secs                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <table>
   <tr>
     <td>💻 Wallpaper Engine</td>
-    <td>🕘 35835 hrs 54 mins</td>
+    <td>🕘 35840 hrs 24 mins</td>
   </tr>
   <tr>
     <td>🍊 魔女的夜宴</td>
-    <td>🕘 18804 hrs 14 mins</td>
+    <td>🕘 18808 hrs 44 mins</td>
   </tr>
   <tr>
     <td>🍊 Riddle Joker</td>
-    <td>🕘 18781 hrs 37 mins</td>
+    <td>🕘 18786 hrs 7 mins</td>
   </tr>
   <tr>
     <td>🍊 Cafe Stella</td>
-    <td>🕘 18780 hrs 37 mins</td>
+    <td>🕘 18785 hrs 7 mins</td>
   </tr>
   <tr>
     <td>🍊 Senren＊Banka</td>
-    <td>🕘 18752 hrs 29 mins</td>
+    <td>🕘 18756 hrs 59 mins</td>
   </tr>
 </table>
 <!-- Powered by https://github.com/NaiHeeeee/steam-box . -->

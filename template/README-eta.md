@@ -162,23 +162,23 @@
 <table>
   <tr>
     <td>💻 Wallpaper Engine</td>
-    <td>🕘 36521 hrs 50 mins</td>
+    <td>🕘 36525 hrs 20 mins</td>
   </tr>
   <tr>
     <td>🍊 魔女的夜宴</td>
-    <td>🕘 19476 hrs 20 mins</td>
+    <td>🕘 19479 hrs 50 mins</td>
   </tr>
   <tr>
     <td>🍊 Riddle Joker</td>
-    <td>🕘 19454 hrs 12 mins</td>
+    <td>🕘 19457 hrs 42 mins</td>
   </tr>
   <tr>
     <td>🍊 Cafe Stella</td>
-    <td>🕘 19453 hrs 12 mins</td>
+    <td>🕘 19456 hrs 42 mins</td>
   </tr>
   <tr>
     <td>🍊 Senren＊Banka</td>
-    <td>🕘 19424 hrs 41 mins</td>
+    <td>🕘 19428 hrs 11 mins</td>
   </tr>
 </table>
 <!-- Powered by https://github.com/NaiHeeeee/steam-box . -->

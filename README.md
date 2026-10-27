@@ -96,15 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 19 October 2026 - To: 26 October 2026
-
-Total Time: 57 mins
-
-Git Config   31 mins               🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.32 %
-JavaScript   25 mins               🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.68 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 

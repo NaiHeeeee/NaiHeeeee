@@ -171,23 +171,23 @@ Git Config   31 mins               🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 <table>
   <tr>
     <td>💻 Wallpaper Engine</td>
-    <td>🕘 37127 hrs 40 mins</td>
+    <td>🕘 37132 hrs 10 mins</td>
   </tr>
   <tr>
     <td>🍊 魔女的夜宴</td>
-    <td>🕘 20060 hrs 25 mins</td>
+    <td>🕘 20064 hrs 55 mins</td>
   </tr>
   <tr>
     <td>🍊 Riddle Joker</td>
-    <td>🕘 20038 hrs 17 mins</td>
+    <td>🕘 20042 hrs 47 mins</td>
   </tr>
   <tr>
     <td>🍊 Cafe Stella</td>
-    <td>🕘 20037 hrs 17 mins</td>
+    <td>🕘 20041 hrs 47 mins</td>
   </tr>
   <tr>
     <td>🍊 Senren＊Banka</td>
-    <td>🕘 20007 hrs 35 mins</td>
+    <td>🕘 20012 hrs 5 mins</td>
   </tr>
 </table>
 <!-- Powered by https://github.com/NaiHeeeee/steam-box . -->

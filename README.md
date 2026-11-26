@@ -96,18 +96,6 @@
 <div align="center" >
 <!--START_SECTION:waka-->
 
-```rust
-From: 17 November 2026 - To: 24 November 2026
-
-Total Time: 9 hrs 11 mins
-
-JavaScript    4 hrs 15 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.35 %
-JSON          1 hr 4 mins           🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.87 %
-Rust          35 mins               🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.41 %
-YAML          31 mins               🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.82 %
-Markdown      30 mins               🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.67 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 
